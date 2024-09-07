@@ -1,4 +1,4 @@
-<img src="https://github.com/MrTimofeev/MrTimofeev/blob/main/gif_github.gif" width="900">
+<img src="https://github.com/MrTimofeev/MrTimofeev/blob/main/gif_github.gif" width="700">
 
 ## Hi there 👋
 If you found this repository, then know that I am a future pirate king, oh... I wanted to say a beginner, but very promising programmer. Maybe I'll start doing something more useful, but for now I'll endlessly program until I reach my goal!
