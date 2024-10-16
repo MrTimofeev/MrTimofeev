@@ -1,32 +1,32 @@
 <img src="https://github.com/MrTimofeev/MrTimofeev/blob/main/gif_github.gif" width="700">
 
-## Hi there 👋
-If you found this repository, then know that I am a future pirate king, oh... I wanted to say a beginner, but very promising programmer. Maybe I'll start doing something more useful, but for now I'll endlessly program until I reach my goal!
+## Привет 👋
+Если ты нашел этот репозиторий, то знай, что я будущий король пиратов, ой... Хотел сказать начинающий, но очень перспективный программист. Может, когда-нибудь я начну делать что-то более полезное, а пока буду бесконечно программировать, пока не достигну своей цели!
 
-## 🙋‍♂️ About me
+## 🙋‍♂️ Обо мне
 
-🚀 Timofeev Timofey
-*Beginner, but very promising Python programmer*
+🚀 Тимофеев Тимофей
+*Начинающий, но очень перспективный программист Python*
 
-💡 **Projects:**
-1. coming soon
+💡 **Проекты:**
+1. скоро
 
-🛠️ **Skills:**
-- **Languages:** Python
-- **Frameworks:** I am learning FastApi, Django, aiogram
-- **Libraries:** Selenium, request,
-- **Tools:** VS Code, GitHub,
-- **Other:** operating system, data structure, computer networks
+🛠️ **Навыки:**
+- **Языки:** Python
+- **Фреймворки:** Изучаю: FastApi, Django, aiogram
+- **Библиотеки:** Selenium, request, изучаю: asyncio, threading
+- **Инструменты:** VS Code, GitHub, git, Docker
+- **Другое:** операционные системы, структуры данных, компьютерные сети, алгоритмы, SQL запросы
 
-🏆 **Achievements/additional courses:**
-1. Still haven't given up on learning programming
+🏆 **Достижения/дополнительные курсы:**
+1. До сих пор не забросил изучение программирования
 
 ---
 
- My Codewars Stats:
+Моя статистика Codewars:
 
 <img src= "https://www.codewars.com/users/MrSoulKing/badges/micro" width= "200"/>
 
 ---
 
-Thanks for visiting!</h3>
+Спасибо за посещение!</h3>``
