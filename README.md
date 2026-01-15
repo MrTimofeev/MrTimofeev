@@ -27,6 +27,10 @@
 
 <img src= "https://www.codewars.com/users/MrSoulKing/badges/micro" width= "200"/>
 
+Моя статистика LeetCode:
+
+<img src="https://leetcard.jacoblin.cool/MrTimofeev?theme=dark" width="400"/>
+
 ---
 
 Спасибо за посещение!</h3>
